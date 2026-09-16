@@ -31,4 +31,4 @@ An AI-powered web application that transcribes speech, translates subtitles into
 - **Live App**: [Multilingual Video Subtitle Generator](https://built-by-ubaid-multilingual-video-subtitle-generator.streamlit.app/)
 
 ---
-*Built with passion by Muhammad Ubaid Raza*
+* **Developed By**: [Muhammad Ubaid Raza](https://ubaidraza-jpg.github.io/portfolio/)
