@@ -10,6 +10,7 @@ I'm **Muhammad Ubaid Raza** (`UbaidRaza-jpg`), a **BS Information Technology stu
 * **Languages & Tools**: Python, C++, JavaScript, FastAPI, Streamlit, FFmpeg, Whisper, PyTorch, HTML5/CSS3
 * **LinkedIn**: [Muhammad Ubaid Raza](https://www.linkedin.com/in/)
 * **GitHub**: [github.com/UbaidRaza-jpg](https://github.com/UbaidRaza-jpg)
+* * **Portfolio**: [Muhammad Ubaid Raza](https://ubaidraza-jpg.github.io/portfolio/)
 
 ---
 
